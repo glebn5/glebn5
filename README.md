@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My skills: [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,django,jquery,wordpress,tailwind)](https://skillicons.dev)
+## My skills: [![My Skills](https://skillicons.dev/icons?i=html,css,py,django,tailwind)](https://skillicons.dev)
 
 <!--
 **glebn5/glebn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
