@@ -1,6 +1,28 @@
-## Hi there 👋
+# Novikov Gleb   
 
-## My skills: [![My Skills](https://skillicons.dev/icons?i=html,css,py,django,tailwind)](https://skillicons.dev)
+## Table of contents
+- [About me](#about-me)
+- [My skills](#my-skills)
+- [My top project](#my-top-project)
+- [Contacts](#contacts)
+
+## About me 
+👦 Hello! I'm Gleb. I'm 17 y.o.  
+💻 A web-developer, python backend developer from Russia
+
+## My skills  
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,html,css,linux)](https://skillicons.dev)
+
+## My top project
+
+📹 [NewTube](https://github.com/glebn5/NewTube)  
+🗒️ [To-Do List](https://github.com/glebn5/to-do)
+🎈 [site "Ballon"](https://github.com/glebn5/ballon)  
+
+## Contacts  
+- [Telegram](https://t.me/glebn129)
+- [VK](https://vk.com/feron129)
+- [Mail](glebnowikoff@yandex.ru)
 
 <!--
 **glebn5/glebn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
