@@ -1,5 +1,7 @@
 # Novikov Gleb   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glebn5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Table of contents
 - [About me](#about-me)
 - [My skills](#my-skills)
@@ -11,7 +13,7 @@
 💻 A web-developer, python backend developer from Russia
 
 ## My skills  
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,html,css,sass,linux)](https://skillicons.dev)
 
 ## My top project
 
