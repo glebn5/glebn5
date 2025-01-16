@@ -13,7 +13,7 @@
 💻 A web-developer, python backend developer from Russia
 
 ## My skills  
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,html,css,sass,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,html,css,sass,linux,git)](https://skillicons.dev)
 
 ## My top project
 
